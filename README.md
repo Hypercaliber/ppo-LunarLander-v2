@@ -27,8 +27,5 @@ using the [stable-baselines3 library](https://github.com/DLR-RM/stable-baselines
 
 # Playback
 
-https://github.com/user-attachments/assets/f5f71876-0dd4-447e-a182-1f9e690a7f79
+https://github.com/user-attachments/assets/b7386291-5348-4390-bd51-350cc79d94f5
 
-version https://git-lfs.github.com/spec/v1
-oid sha256:820a724bb150f6ee932429346005af3695b2b9e23236417d902d15485768a590
-size 145564
